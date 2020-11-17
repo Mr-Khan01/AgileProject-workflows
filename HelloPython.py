@@ -1,3 +1,4 @@
+//Print date and time
 import datetime
 print("Hello world!")
 now = datetime.datetime.now()
