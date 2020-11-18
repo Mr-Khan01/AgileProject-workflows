@@ -1,5 +1,5 @@
 
-# This program prints Hello, world!
+# This will print my name
 
 print('Hello, This is Fayyaz Khan!')
 
