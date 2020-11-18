@@ -1,3 +1,8 @@
+
+# This program prints Hello, world!
+
+print('Hello, This is Fayyaz Khan!')
+
 //the following line of the code will import the current date and time of the system
 import datetime
 print("Hello world!")
