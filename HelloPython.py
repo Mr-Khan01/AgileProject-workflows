@@ -11,3 +11,9 @@ now = datetime.datetime.now()
 //this will display the date and the time
 print ("Current date and time is ")
 print (now.strftime("%A, %d-%m-%Y : %H:%M"))	
+//this will display the date and the time
+print ("Current date and time is ")
+print (now.strftime("%A, %d-%m-%Y : %H:%M"))	
+//this will display the date and the time
+print ("Current date and time is ")
+print (now.strftime("%A, %d-%m-%Y : %H:%M"))	
