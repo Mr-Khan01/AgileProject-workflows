@@ -7,7 +7,7 @@ print('Hello, This is Fayyaz Khan!')
 import datetime
 print("Hello world!")
 now = datetime.datetime.now()
-
+#24/11/20
 //this will display the date and the time
 print ("Current date and time is ")
 print (now.strftime("%A, %d-%m-%Y : %H:%M"))	
